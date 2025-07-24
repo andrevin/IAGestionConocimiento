@@ -10,3 +10,4 @@
 
 - Los resultados en formato crudo generados durante el estudio se encuentran en el directorio `.\DeepEval`.
 
+Este estudio es un piloto para evaluar los modelos de IA Generativa Local y Propietaria con la implementación de sistemas RAG
